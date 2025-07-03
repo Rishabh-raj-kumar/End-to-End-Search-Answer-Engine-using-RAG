@@ -39,8 +39,8 @@ The project follows a three-stage RAG pipeline:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Rishabh-raj-kumar/End-to-End-Search-Answer-Engine-using-RAG.git
+   cd End-to-End-Search-Answer-Engine-using-RAG
    ```
 
 2. **Create a virtual environment (recommended):**
@@ -53,10 +53,9 @@ The project follows a three-stage RAG pipeline:
 3. **Install the required libraries:**
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
-   (Ensure you have a `requirements.txt` file with all the necessary packages like torch, transformers, sentence-transformers, pandas, numpy, pymupdf)
 
 4. **Hugging Face Authentication (Required for Gemma):**
 
