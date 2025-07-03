@@ -1,3 +1,5 @@
+<img src="workflow.png" alt="image" />
+
 # End-to-End Search & Answer Engine using RAG
 
 This project implements a complete Retrieval-Augmented Generation (RAG) pipeline that transforms any PDF document into an interactive and intelligent question-answering system. By leveraging state-of-the-art sentence embeddings and large language models (LLMs), this engine can understand natural language queries, find the most relevant information within a document, and generate accurate, context-aware answers.
